@@ -34,3 +34,7 @@ function average(array){
 var testArray = [5,3,4] 
 console.log("평균값 : " + average(testArray));
 ```
+> Result Code
+```
+평균값 : 0
+```
