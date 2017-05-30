@@ -1,4 +1,4 @@
-## level 1. 핸드폰번호 가리기(hiding number)
+## level 1. 평균값 구하기(Average)
 ---
 
 ### My Answer
